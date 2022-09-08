@@ -6,6 +6,10 @@ Hi, my name is **Jignesh Trivedi**, and I have prepared clone of Rode Microphone
 ![Made With](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Made With](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+# Deployed Website
+
+[![Deployed Link](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rode-responsive-clone.netlify.app/)
+
 This is a Static webpage it tooked me around **10 hours** to build this webpage
 
 This page is **Mobile Responsive** as well
